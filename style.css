@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+body{
+	background:BLACK;
+}
+
+h1{
+	font-size:60px;
+	color:white;
+}
+
+button{
+	font-family: 'Caveat', cursive;
+	font-size:30px;
+}
